@@ -40,9 +40,9 @@
  git clone https://github.com/oraoraoraaa/picking-up-optimization.git
  ```
 
-2. 使用 Visual Studio Code 打开仓库文件夹。
+1. 使用 Visual Studio Code 打开仓库文件夹。
 
-3. 使用图形界面管理 Git 控件。
+2. 使用图形界面管理 Git 控件。
 
 #### 命令行 Git（不推荐新手使用）
 
@@ -101,5 +101,3 @@
 同样地，如果你的改动不符合文档中给出的规范，在审查时也会被直接拒绝。
 
 ## 就这些，祝你编码愉快
-
-(p.s. 你的下一步大概可以查看 [`docs/PLAN.md`](PLAN.md))
